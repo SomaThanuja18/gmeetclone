@@ -1,0 +1,55 @@
+# Node.js dependencies
+node_modules/
+
+# Logs
+logs/
+*.log
+npm-debug.log*
+yarn-debug.log*
+yarn-error.log*
+
+# Build and temp folders
+dist/
+tmp/
+temp/
+
+# OS generated files
+.DS_Store
+Thumbs.db
+
+# Runtime files
+*.pid
+*.seed
+*.pid.lock
+
+# Environment/Secrets
+.env
+.env.local
+.env.*.local
+
+# VS Code
+.vscode/
+
+# Optional: Ignore peerjs server config, unless you want to track it
+peerjsdb/
+
+# Optional: Ignore coverage reports if using test coverage tools
+coverage/
+
+# Optional: Ignore static build output if generated
+/static-build/
+
+# npm logs and error reports
+npm-debug.log*
+npm-error.log*
+
+# Windows folder configuration files
+desktop.ini
+
+# IDE files
+.idea/
+*.sublime-workspace
+*.sublime-project
+
+# Optional: Ignore uploads/
+uploads/
