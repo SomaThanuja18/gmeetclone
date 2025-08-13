@@ -44,12 +44,12 @@ Install dependencies
 ```
 Run this in git bash
 ```in one shell of terminal
-  $ peerjs --port 3031
+  peerjs --port 3031
 ```
 In other shell of terminal Start the server
 
 ```bash
-  nodemon server
+  node server
 ```
 Run 
 http://localhost:3030 or https://localhost:3030
